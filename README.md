@@ -2,14 +2,14 @@
 
 I'm Anna Vasylenko a passionate Full-Stack Developer with a background in pharmacy management. I work with the precision of a pharmacist. The phrase "accurately like in a pharmacy" perfectly describes the quality of my work 💻✨
 
-📚 I’m currently learning Node.js.
+🌱 I’m currently learning Node.js.
 
 📫 Reach out to me:
 
 ![Static Badge](https://img.shields.io/badge/Anna%20Vasylenko-%23107dac?style=flat&logo=linkedin&logoColor=white&labelColor=%23107dac&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanna-vasylenko01%2F)
 ![Static Badge](https://img.shields.io/badge/Anna%20Vasylenko-%23189ad3?style=flat&logo=telegram&logoColor=white&labelColor=%23189ad3&link=https%3A%2F%2Ft.me%2Fannikaa_17)
 
-#### Technologies and Tools
+#### Technologies and Tools 💻
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="40"/></a>
@@ -24,7 +24,7 @@ I'm Anna Vasylenko a passionate Full-Stack Developer with a background in pharma
 <a href="https://www.figma.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="40"/></a>
 
 
-#### My stats ✨
+#### My stats ⚡
 
 <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-vasylenko&layout=compact&theme=rose_pine" height=180px width=43%/>
 <img align="left" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=anna-vasylenko&theme=rose-pine" height=180px width=51%/>
