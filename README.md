@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Anna 👋
+
+I'm Anna Vasylenko a passionate Full-Stack Developer with a background in pharmacy management. I work with the precision of a pharmacist. The phrase "accurately like in a pharmacy" perfectly describes the quality of my work.
+
+💻 I’m currently learning Node.js.
+
+📫 Reach out to me:
+
+![Static Badge](https://img.shields.io/badge/Anna%20Vasylenko-%23107dac?style=flat&logo=linkedin&logoColor=white&labelColor=%23107dac&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanna-vasylenko01%2F)
+![Static Badge](https://img.shields.io/badge/Anna%20Vasylenko-%23189ad3?style=flat&logo=telegram&logoColor=white&labelColor=%23189ad3&link=https%3A%2F%2Ft.me%2Fannikaa_17)
+
 
 <!--
 **anna-vasylenko/anna-vasylenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
