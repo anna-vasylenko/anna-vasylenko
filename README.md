@@ -26,8 +26,8 @@ I'm Anna Vasylenko a passionate Full-Stack Developer with a background in pharma
 
 #### My stats ✨
 
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-vasylenko&layout=compact&theme=rose_pine" height=180px width=42%/>
-<img align="right" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=anna-vasylenko&theme=rose-pine" height=180px width=52%/>
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-vasylenko&layout=compact&theme=rose_pine" height=180px width=43%/>
+<img align="left" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=anna-vasylenko&theme=rose-pine" height=180px width=51%/>
 
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="40"/></a>
