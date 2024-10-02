@@ -2,7 +2,7 @@
 
 ### About me ✨
 
-I'm Anna Vasylenko a passionate Full-Stack Developer with a background in pharmacy management. I work with the precision of a pharmacist. The phrase "accurately like in a pharmacy" perfectly describes the quality of my work.
+I'm a passionate Frontend Developer with a background in pharmacy management. I work with the precision of a pharmacist, so the phrase "accurately like in a pharmacy" perfectly describes the quality of my work.
 
 🌱 I’m currently learning Node.js.
 
